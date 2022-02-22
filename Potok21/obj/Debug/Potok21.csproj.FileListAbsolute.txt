@@ -1,0 +1,15 @@
+C:\Users\Андрей Ренжин\Desktop\Papo4ka\Potok21\obj\Debug\Potok21.csproj.AssemblyReference.cache
+C:\Users\Андрей Ренжин\Desktop\Papo4ka\Potok21\obj\Debug\Potok21.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Ренжин\Desktop\Papo4ka\Potok21\bin\Debug\Potok21.exe.config
+C:\Users\Андрей Ренжин\Desktop\Papo4ka\Potok21\bin\Debug\Potok21.exe
+C:\Users\Андрей Ренжин\Desktop\Papo4ka\Potok21\bin\Debug\Potok21.pdb
+C:\Users\Андрей Ренжин\Desktop\Papo4ka\Potok21\obj\Debug\Potok21.exe
+C:\Users\Андрей Ренжин\Desktop\Papo4ka\Potok21\obj\Debug\Potok21.pdb
+C:\Users\renzh\Desktop\Papo4ka\Potok21\bin\Debug\Potok21.exe.config
+C:\Users\renzh\Desktop\Papo4ka\Potok21\bin\Debug\Potok21.exe
+C:\Users\renzh\Desktop\Papo4ka\Potok21\bin\Debug\Potok21.pdb
+C:\Users\renzh\Desktop\Papo4ka\Potok21\obj\Debug\Potok21.csproj.AssemblyReference.cache
+C:\Users\renzh\Desktop\Papo4ka\Potok21\obj\Debug\Potok21.csproj.SuggestedBindingRedirects.cache
+C:\Users\renzh\Desktop\Papo4ka\Potok21\obj\Debug\Potok21.csproj.CoreCompileInputs.cache
+C:\Users\renzh\Desktop\Papo4ka\Potok21\obj\Debug\Potok21.exe
+C:\Users\renzh\Desktop\Papo4ka\Potok21\obj\Debug\Potok21.pdb
